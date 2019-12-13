@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\c_code\ch7_lab1\source\main.c(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 巨集重複定義
+  c:\c_code\ch7_lab1\source\main.c: note: 請參閱 '_CRT_SECURE_NO_WARNINGS' 之前的定義
+c:\c_code\ch7_lab1\source\main.c(27): warning C4566: 由通用字元名稱 '\u6863' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\c_code\ch7_lab1\source\main.c(27): warning C4566: 由通用字元名稱 '\u5F00' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\c_code\ch7_lab1\source\main.c(27): warning C4566: 由通用字元名稱 '\u542F' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\c_code\ch7_lab1\source\main.c(27): warning C4566: 由通用字元名稱 '\u8D25' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\c_code\ch7_lab1\source\main.c(31): warning C4566: 由通用字元名稱 '\u56FD' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\c_code\ch7_lab1\source\main.c(31): warning C4566: 由通用字元名稱 '\u6570' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\c_code\ch7_lab1\source\main.c(31): warning C4566: 由通用字元名稱 '\u5B66' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\c_code\ch7_lab1\source\main.c(31): warning C4566: 由通用字元名稱 '\u603B' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\c_code\ch7_lab1\source\main.c(40): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Ch7_Lab1.vcxproj -> C:\c_code\Ch7_Lab1\Ch7_Lab1\Ch7_Lab1\..\..\temp\debug\Ch7_Lab1.exe
